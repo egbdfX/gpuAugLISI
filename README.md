@@ -14,7 +14,7 @@ Run the Makefile by ```make```. Note that this Makefile is written for NVIDIA H1
 Run the code by ```./sharedlibrary_gpu x.fits y.fits```, where ```x.fits``` and ```y.fits``` are the two input images (FITS files). The two input images should have the same size.
 
 **Step 4:**
-The code will output a FITS file named ```output_augLISI.fits```, which is the output LISI matrix.
+The code will output a FITS file named ```output_augLISI.fits```, which is the output augLISI matrix.
 
 ## Contact
 If you have any questions or need further assistance, please feel free to contact at [egbdfmusic1@gmail.com](mailto:egbdfmusic1@gmail.com).
