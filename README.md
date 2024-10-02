@@ -23,7 +23,9 @@ If you have any questions or need further assistance, please feel free to contac
 
 **When referencing this code, please cite our related paper:**
 
-X. Li, K. Adámek, W. Armour, "Intensity-sensitive quality assessment of extended sources in astronomical images," ApJS, 2024. url: https://arxiv.org/abs/2407.07863
+X. Li, K. Adámek, and W. Armour, "Intensity-Sensitive Quality Assessment of Extended Sources in Astronomical Images," The Astrophysical Journal Supplement (ApJS) Series, vol. 274, no. 2, 2024, pp. 37, doi: 10.3847/1538-4365/ad6a58.
+
+X. Li, K. Adamek, and W. Armour, "GPU Accelerated Image Quality Assessment-Based Software for Source Detection," Astronomical Data Analysis Software and Systems (ADASS) XXXIV, 2024. 
 
 ## License
 
